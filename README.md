@@ -2,7 +2,7 @@
 
 🚀 **Live Demo:** [swalath for kids in a day](https://github.com/raihan488/swalath-for-kids-in-a-day)
 
-This project is deployed at **https://your-app-url.com**.
+This project is deployed at **https://github.com/raihan488/swalath-for-kids-in-a-day**.
 
 ## About the Project
 Success in dunya and akhira is achieved by extinguishing sins of the soul. This can be made possible by 
